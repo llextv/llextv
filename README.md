@@ -1,35 +1,73 @@
-## Hello👋
-I'm llextv (username, i not reveal my real name for privacy), I'm learn to be Junior Full Stack developer. I work on a lot of project in private reposetory for lot of different usage like:
+---
 
-- 🖥️ I have work to this project:
-  -> Sport App: My main project (private) it's an app for sportive association to organise her match or training !
-    -> 🖥️ React Native Expo Managed workflow
-    -> 🖥️ Native PHP
-    -> 🖥️ SQL
-    -> 🖥️ HTML, CSS, JS with use of Tailwind CSS
-  -> CT-PF: Mobile app (no other data for this: it's secret 😉)
-    -> 🖥️ React Native Expo Managed workflow
-    -> 🖥️ Native PHP
-    -> 🖥️ Management of plugins for this app (you can see this in my CT-PF-plugins repo
-  -> Molki Open Source: One on my first app in public
-    -> 🖥️ HTML, CSS, JS
-    -> 🖥️ SQL
-    -> 🖥️ Native PHP
-    -> 💩 ChatGPT 😅
-  -> 
-- ☕ I love coffee ! 
+# 👋 Hello !
 
-<!--
-**llextv/llextv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **llextv** (username — I don't reveal my real name for privacy).
+I'm learning to become a **Junior Full Stack Developer**, and I’m working on many projects stored in **private repositories**, for various purposes such as apps, tools, plugins, and more.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Worked With
+
+### **Technologies**
+
+* **PHP**
+* **React Native**
+* **Expo**
+
+  * EAS Build
+* **SQL**
+
+  * MySQL
+* **HTML • CSS • JavaScript**
+
+  * Tailwind CSS
+  * TypeScript
+* **C#**
+* **C**
+
+  * Arduino projects
+* **Java**
+
+  * Minecraft plugins
+* **Python**
+* **Node.js ❤️**
+
+### **People / Teams**
+
+* With **[@GLOXIOU](https://github.com/GLOXIOU/)** ❤️
+* Worked on **multiple Minecraft server development projects** (4+ servers)
+* Member of the **Life Santos development team** for the game *Nova Life: Amboise*
+
+  * Plugin development in **C# (Unity)**
+* And many other amazing collaborators...
+
+---
+
+## 🚀 Projects I've Worked On
+
+### **🏀 Sport App**
+
+My main (private) project:
+An application for sports associations to organize matches, training sessions, and manage teams.
+
+### **📱 CT-PF App**
+
+A mobile app (details are secret 😉).
+But you can explore the public plugin system here:
+➡️ **[CT-PF Plugins](https://github.com/llextv/CT-PF-plugins)**
+
+### **🎯 Molkie — Open Source**
+
+One of my first public WebApps.
+
+---
+
+## ⭐ Other Stuff
+
+* ☕ I love coffee
+* 🏀 I play basketball
+* 🖥️ I love coding
+* 🎥 I'm also a streamer
+
+---
