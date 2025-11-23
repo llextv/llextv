@@ -23,6 +23,7 @@ I'm learning to become a **Junior Full Stack Developer**, and I’m working on m
 
   * Tailwind CSS
   * TypeScript
+  * ElectronJS
 * **C#**
 * **C**
 
