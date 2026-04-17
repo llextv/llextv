@@ -38,7 +38,7 @@ I'm learning to become a **Junior Full Stack Developer**, and I’m working on m
 
 * With **[@GLOXIOU](https://github.com/GLOXIOU/)** ❤️
 * Worked on **multiple Minecraft server development projects** (4+ servers)
-* Member of the **Life Santos development team** for the game *Nova Life: Amboise*
+* Ex-Member of the **Life Santos development team** for the game *Nova Life: Amboise*
 
   * Plugin development in **C# (Unity)**
 * And many other amazing collaborators...
