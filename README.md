@@ -38,6 +38,7 @@ I'm learning to become a **Junior Full Stack Developer**, and I’m working on m
 
 * With **[@GLOXIOU](https://github.com/GLOXIOU/)** ❤️
 * Worked on **multiple Minecraft server development projects** (4+ servers)
+* Active member of HackClub Organisation (https://hackclub.com/)
 * Ex-Member of the **Life Santos development team** for the game *Nova Life: Amboise*
 
   * Plugin development in **C# (Unity)**
